@@ -3,3 +3,4 @@
 - Creating a new branch is quick AND simple.
 - add new branch dev
 - add branch feature2
+- add branch feature3
